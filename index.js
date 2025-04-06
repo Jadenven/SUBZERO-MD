@@ -9,11 +9,11 @@ $$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
 \$$$$$$  |\$$$$$$  |$$$$$$$  |$$$$$$$$\ \$$$$$$$\ $$ |      \$$$$$$  |
  \______/  \______/ \_______/ \________| \_______|\__|       \______/
 
-- Project Name : SubZero MD
-- Creator      : Darrell Mucheri ( Mr Frank OFC )
-- Repo         : https//github.com/mrfrank-ofc/SUBZERO-MD
+- Project Name : Jaden MD
+- Creator      : JustJades 
+- Repo         : https//github.com/Jadenven/SUBZERO-MD
 - Support      : wa.me/18062212660
-- Channel      : https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
+- Channel      : whatsapp
 - Release Date : 15 Dececmber 2024 12.01 AM
 */
 
